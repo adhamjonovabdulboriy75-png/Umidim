@@ -1,0 +1,78 @@
+.info {
+    font-size: 20px;
+    color: #FF4D01;
+    letter-spacing: 0.8px;
+    margin-bottom: 15px;
+}
+
+.text {
+    font-size: 18px;
+    color: #605E5D;
+    width: 589px;
+    margin-bottom: 54px;
+}
+
+.team__content__card {
+    position: relative;
+    top: -500px;
+    left: 600px;
+}
+
+.title {
+    width: 522px;
+    font-size: 54px;
+    line-height: 61.99px;
+
+    font-family: "Roboto", sans-serif;
+    margin-bottom: 19px;
+    margin-top: 15px;
+}
+
+.card {
+    display: flex;
+    gap: 86px;
+}
+
+.card b {
+    font-size: 72px;
+}
+
+.card p {
+    font-size: 16px;
+}
+
+.btn {
+    padding: 27px 40px;
+    border: 2px solid #191919
+}
+
+.clent {
+    margin-top: -350px;
+}
+
+.card__wrap {
+    display: flex;
+    justify-content: end;
+}
+
+.wrap {
+    display: flex;
+    gap: 26px;
+    position: relative;
+    top: -50px;
+    left: 978px;
+}
+
+.one {
+    border: 1px solid black;
+    width: 72px;
+    height: 72px;
+    background-color: white;
+}
+
+.two {
+    height: 72px;
+    width: 72px;
+    border: 2px solid #FF4D01;
+    background-color: #FF4D01;
+}
